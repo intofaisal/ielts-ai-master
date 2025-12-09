@@ -1,0 +1,5 @@
+{
+  "name": "IELTS AI Master",
+  "description": "A comprehensive IELTS preparation platform featuring AI-graded writing tests, interactive reading exams with contextual flashcards, and admin content management using Google Gemini.",
+  "requestFramePermissions": []
+}
